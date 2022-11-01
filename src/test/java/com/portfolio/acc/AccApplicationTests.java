@@ -1,10 +1,10 @@
-package com.portfolio.mgb;
+package com.portfolio.acc;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MgbApplicationTests {
+class AccApplicationTests {
 
 	@Test
 	void contextLoads() {
